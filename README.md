@@ -23,4 +23,4 @@
 ## Installation and Usage:
 - The project is publicly accessible. Download the .ino file first for real-life implementation and deployment. Make sure to have an IDE or code editor that is capable of running .ino files specifically Arduino IDE.  
 
-The link being - 
+The link being - https://github.com/NightServant/Arduino-Based-Traffic-Light-with-LCD-Monitoring
